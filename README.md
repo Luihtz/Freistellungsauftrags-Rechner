@@ -1,7 +1,7 @@
 # ETF Freistellungsauftragsrechner
 
-Eine kleine App zur optimalen Ausnutzung des Freistellungsauftrags aus einer Trade-Republic-Transaktions-CSV. In Trade Republic kann die .csv direkt
-heruntergeladen werden. Alternativ kann eine manuelle csv-Datei erstellt werden. 
+Eine kleine App, erstellt von zwei Studenten an einem Abend, zur optimalen Ausnutzung des Freistellungsauftrags aus einer Trade-Republic-Transaktions-CSV. 
+In Trade Republic kann die .csv direkt heruntergeladen werden. Alternativ kann eine manuelle csv-Datei erstellt werden. 
 
 ## Funktionen
 
