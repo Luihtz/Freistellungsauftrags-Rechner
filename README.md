@@ -96,7 +96,8 @@ Beispiel für eine minimale Projektstruktur:
 ```text
 projektordner/
 ├── main.py
-└── README.md
+├── README.md
+└── testdata.csv
 ```
 
 ## Fehlerbehebung
